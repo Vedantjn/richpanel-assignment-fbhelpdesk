@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "facebook-login": "^1.4.1"
+  }
+}
